@@ -1,3 +1,5 @@
+<style type="text/css">
+
 
 /* Faqs */
 summary{font-size:90%;font-weight:600;background-color:#F1F1F1;color:#333;isolation:isolate;padding:5px 50px 5px 20px;margin-bottom:20px;box-shadow:-5px -4px 9px 0px #fff, 5px 4px 9px 0px #aaa;border-radius:5px;text-align:left;cursor:pointer;position:relative;}
@@ -6,7 +8,6 @@ details &gt;summary::after{position:absolute;content:&quot;+&quot;;right:20px;} 
 
 details[open] summary ~ *{animation:sweep .5s ease-in-out;isolation:isolate;margin-bottom:1rem;background-color:#EEEEEE;padding:1rem;}
 @keyframes sweep{0%{opacity:0;margin-top:-10px}100%{opacity:1;margin-top:0px}}
-
 
 
 
@@ -21,9 +22,4 @@ details[open] summary ~ *{animation:sweep .5s ease-in-out;isolation:isolate;marg
 #cont_form{border-color:#fff;background-color:#eee;border-radius:10px;box-shadow:-5px -4px 9px 0px #fff, 5px 4px 9px 0px #aaa}
 
 
-
-
-
-
-
-
+</style>
