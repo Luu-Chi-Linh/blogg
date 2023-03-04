@@ -1,3 +1,5 @@
+<style>
+
 /* Faqs */
 summary{font-size:90%;font-weight:600;background-color:#F1F1F1;color:#333;isolation:isolate;padding:5px 50px 5px 20px;margin-bottom:20px;box-shadow:-5px -4px 9px 0px #fff, 5px 4px 9px 0px #aaa;border-radius:5px;text-align:left;cursor:pointer;position:relative;}
 
@@ -11,16 +13,16 @@ details[open] summary ~ *{animation:sweep .5s ease-in-out;isolation:isolate;marg
 
 
 /* Post */
-par_nor{text-align:justify;margin-bottom:30px}   img_dri{width:100%;border-radius:10px;box-shadow:-5px -4px 9px 0px #fff, 5px 4px 9px 0px #aaa}  img_cap{font-size:80%;font-style:italic;text-align:center} img_fig{margin:50px -24px}   tex_mor{font-weight:600}   
+.par_nor{text-align:justify;margin-bottom:30px}   .img_dri{width:100%;border-radius:10px;box-shadow:-5px -4px 9px 0px #fff, 5px 4px 9px 0px #aaa}  .img_cap{font-size:80%;font-style:italic;text-align:center} .img_fig{margin:50px -24px}   .tex_mor{font-weight:600}   
 
-par_mor{font-style:italic;margin:70px 0;padding:2px 0 0 20px;background-color:#eaeded;border-radius:7px;border-bottom:#2980b9 solid 2px}   
+.par_mor{font-style:italic;margin:70px 0;padding:2px 0 0 20px;background-color:#eaeded;border-radius:7px;border-bottom:#2980b9 solid 2px}   
 
-par_inf{font-size:90%;text-align:center;margin:70px 0;padding:15px 10px 11px 10px;background-color:#f7f9f9;border-top:#82e0aa solid 1px;border-bottom:#82e0aa solid 3px;border-radius:10px;box-shadow:-5px -4px 9px 0px #fff, 5px 4px 9px 0px #aaa}
+.par_inf{font-size:90%;text-align:center;margin:70px 0;padding:15px 10px 11px 10px;background-color:#f7f9f9;border-top:#82e0aa solid 1px;border-bottom:#82e0aa solid 3px;border-radius:10px;box-shadow:-5px -4px 9px 0px #fff, 5px 4px 9px 0px #aaa}
 
 #cont_form{border-color:#fff;background-color:#eee;border-radius:10px;box-shadow:-5px -4px 9px 0px #fff, 5px 4px 9px 0px #aaa}
 
 
-
+</style>
 
 
 
